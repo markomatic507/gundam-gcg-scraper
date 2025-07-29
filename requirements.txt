@@ -1,0 +1,12 @@
+# Gundam GCG Scraper Dependencies
+# Python >= 3.9 required
+
+# HTTP client for async requests
+aiohttp>=3.8.0
+
+# HTML parsing
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# Progress bars
+tqdm>=4.64.0

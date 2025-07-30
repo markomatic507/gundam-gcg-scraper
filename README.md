@@ -1,6 +1,6 @@
 # Gundam GCG Card Scraper
 
-A comprehensive, well-documented scraper for the official Gundam GCG (Gundam Card Game) website. Downloads all card metadata, artwork, and set information from [https://www.gundam-gcg.com](https://www.gundam-gcg.com).
+A comprehensive scraper for the official Gundam GCG (Gundam Card Game) website. Downloads all card metadata, artwork, and set information from [https://www.gundam-gcg.com](https://www.gundam-gcg.com).
 
 ## Features
 
